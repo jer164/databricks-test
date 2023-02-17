@@ -15,6 +15,3 @@ def number_printer(input):
 # COMMAND ----------
 
 number_printer(2)
-
-# COMMAND ----------
-
